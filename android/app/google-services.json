@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004613572381",
+    "project_id": "repair-c9eba",
+    "storage_bucket": "repair-c9eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004613572381:android:f35c75d2e195c6854933f4",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdEDrpzlbk9blzWds5AvZT3DsR4cg5fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
